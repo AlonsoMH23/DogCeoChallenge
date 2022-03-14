@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="none">0dp</dimen>
+    <dimen name="xxsmall">1dp</dimen>
+    <dimen name="xsmall">2dp</dimen>
+    <dimen name="small">4dp</dimen>
+    <dimen name="medium">8dp</dimen>
+    <dimen name="large">16dp</dimen>
+    <dimen name="xlarge">32dp</dimen>
+    <dimen name="xxlarge">64dp</dimen>
+
+    <!-- Text Sizes -->
+    <dimen name="txt_xsmall">4sp</dimen>
+    <dimen name="txt_small">8sp</dimen>
+    <dimen name="txt_medium">16sp</dimen>
+    <dimen name="txt_large">20sp</dimen>
+    <dimen name="txt_xlarge">30sp</dimen>
+    <dimen name="txt_xxlarge">40sp</dimen>
+    <dimen name="txt_xxxlarge">50sp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>
+

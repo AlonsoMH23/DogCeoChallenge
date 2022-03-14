@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DogCeoChallenge</string>
+    <string name="retry">Retry</string>
+    <string name="loading">Loading</string>
+    <string name="connection_error">Problem retrieving data from server, please retry</string>
+    <string name="empty_data_list">Empty breed list, please retry</string>
+</resources>
